@@ -1,0 +1,325 @@
+,true,pred
+5,None,mirrored
+9,None,None
+25,None,None
+46,None,None
+63,mirrored,mirrored
+78,mirrored,mirrored pairwise
+82,mirrored,mirrored pairwise
+90,mirrored,mirrored
+93,mirrored,mirrored
+108,mirrored pairwise,mirrored pairwise
+116,mirrored pairwise,None
+124,mirrored pairwise,mirrored
+126,mirrored pairwise,mirrored pairwise
+132,mirrored pairwise,mirrored pairwise
+137,mirrored pairwise,mirrored pairwise
+144,mirrored pairwise,mirrored pairwise
+157,mirrored pairwise,mirrored pairwise
+164,None,None
+179,None,None
+180,None,mirrored
+186,None,None
+196,None,mirrored
+206,None,None
+209,None,None
+219,mirrored,mirrored
+226,mirrored,mirrored
+249,mirrored,mirrored
+266,mirrored,mirrored
+272,mirrored pairwise,mirrored pairwise
+296,mirrored pairwise,mirrored pairwise
+302,mirrored pairwise,mirrored pairwise
+313,mirrored pairwise,mirrored pairwise
+319,mirrored pairwise,mirrored pairwise
+3,None,None
+7,None,mirrored pairwise
+16,None,mirrored pairwise
+33,None,None
+42,None,None
+45,None,None
+55,mirrored,None
+57,mirrored,None
+60,mirrored,mirrored pairwise
+73,mirrored,None
+75,mirrored,None
+76,mirrored,mirrored pairwise
+77,mirrored,None
+94,mirrored,mirrored
+101,mirrored,mirrored
+104,mirrored,mirrored
+109,mirrored pairwise,mirrored pairwise
+119,mirrored pairwise,mirrored pairwise
+165,None,mirrored
+172,None,None
+173,None,None
+175,None,None
+177,None,None
+231,mirrored,mirrored
+245,mirrored,mirrored
+258,mirrored,mirrored
+265,mirrored,mirrored
+284,mirrored pairwise,mirrored pairwise
+288,mirrored pairwise,mirrored pairwise
+292,mirrored pairwise,mirrored pairwise
+300,mirrored pairwise,mirrored pairwise
+303,mirrored pairwise,mirrored pairwise
+304,mirrored pairwise,None
+6,None,mirrored
+17,None,None
+22,None,mirrored
+24,None,mirrored
+30,None,mirrored pairwise
+31,None,mirrored
+56,mirrored,mirrored pairwise
+59,mirrored,None
+84,mirrored,mirrored pairwise
+114,mirrored pairwise,mirrored
+140,mirrored pairwise,None
+146,mirrored pairwise,mirrored pairwise
+168,None,None
+181,None,mirrored
+185,None,mirrored
+198,None,None
+199,None,None
+210,None,None
+218,mirrored,mirrored
+222,mirrored,mirrored
+224,mirrored,mirrored
+228,mirrored,None
+239,mirrored,mirrored
+246,mirrored,None
+248,mirrored,mirrored
+261,mirrored,mirrored
+262,mirrored,mirrored
+269,mirrored,mirrored
+275,mirrored pairwise,mirrored pairwise
+279,mirrored pairwise,mirrored pairwise
+310,mirrored pairwise,mirrored pairwise
+316,mirrored pairwise,None
+321,mirrored pairwise,mirrored pairwise
+10,None,mirrored
+15,None,mirrored
+18,None,mirrored pairwise
+19,None,None
+23,None,mirrored
+37,None,None
+39,None,None
+66,mirrored,mirrored pairwise
+68,mirrored,mirrored pairwise
+69,mirrored,mirrored
+72,mirrored,mirrored pairwise
+79,mirrored,None
+81,mirrored,None
+92,mirrored,mirrored
+96,mirrored,mirrored
+97,mirrored,mirrored
+110,mirrored pairwise,mirrored
+111,mirrored pairwise,mirrored pairwise
+113,mirrored pairwise,mirrored pairwise
+118,mirrored pairwise,mirrored pairwise
+148,mirrored pairwise,mirrored pairwise
+153,mirrored pairwise,mirrored pairwise
+155,mirrored pairwise,mirrored pairwise
+163,None,None
+183,None,None
+184,None,mirrored
+223,mirrored,mirrored
+227,mirrored,mirrored
+233,mirrored,None
+237,mirrored,mirrored
+256,mirrored,mirrored
+291,mirrored pairwise,mirrored pairwise
+306,mirrored pairwise,mirrored pairwise
+2,None,None
+38,None,None
+67,mirrored,mirrored
+86,mirrored,None
+112,mirrored pairwise,mirrored pairwise
+115,mirrored pairwise,mirrored pairwise
+117,mirrored pairwise,mirrored pairwise
+125,mirrored pairwise,mirrored pairwise
+129,mirrored pairwise,mirrored pairwise
+139,mirrored pairwise,mirrored pairwise
+143,mirrored pairwise,mirrored pairwise
+145,mirrored pairwise,mirrored pairwise
+147,mirrored pairwise,mirrored pairwise
+152,mirrored pairwise,mirrored pairwise
+154,mirrored pairwise,mirrored pairwise
+158,mirrored pairwise,mirrored pairwise
+167,None,mirrored
+193,None,None
+194,None,mirrored
+197,None,None
+202,None,None
+204,None,None
+208,None,None
+211,None,None
+225,mirrored,mirrored
+238,mirrored,mirrored
+271,mirrored pairwise,mirrored pairwise
+274,mirrored pairwise,mirrored pairwise
+286,mirrored pairwise,mirrored pairwise
+299,mirrored pairwise,mirrored pairwise
+307,mirrored pairwise,mirrored pairwise
+312,mirrored pairwise,None
+12,None,None
+28,None,mirrored
+29,None,None
+35,None,None
+51,None,None
+65,mirrored,mirrored
+74,mirrored,mirrored pairwise
+83,mirrored,mirrored
+85,mirrored,mirrored
+95,mirrored,mirrored
+107,mirrored,mirrored
+120,mirrored pairwise,mirrored
+127,mirrored pairwise,mirrored pairwise
+131,mirrored pairwise,mirrored pairwise
+133,mirrored pairwise,mirrored pairwise
+142,mirrored pairwise,mirrored
+159,mirrored pairwise,mirrored pairwise
+170,None,None
+176,None,None
+182,None,mirrored pairwise
+195,None,None
+203,None,None
+220,mirrored,mirrored
+221,mirrored,mirrored
+229,mirrored,None
+244,mirrored,mirrored
+247,mirrored,None
+250,mirrored,None
+268,mirrored,mirrored
+280,mirrored pairwise,mirrored pairwise
+287,mirrored pairwise,mirrored pairwise
+298,mirrored pairwise,mirrored pairwise
+0,None,None
+11,None,mirrored pairwise
+26,None,mirrored
+36,None,None
+41,None,None
+47,None,None
+61,mirrored,mirrored
+89,mirrored,None
+98,mirrored,mirrored
+100,mirrored,mirrored
+103,mirrored,mirrored
+136,mirrored pairwise,mirrored
+141,mirrored pairwise,mirrored pairwise
+150,mirrored pairwise,mirrored pairwise
+171,None,None
+178,None,None
+192,None,mirrored
+200,None,None
+213,None,None
+232,mirrored,mirrored
+234,mirrored,mirrored
+240,mirrored,mirrored
+255,mirrored,mirrored
+267,mirrored,mirrored
+277,mirrored pairwise,mirrored pairwise
+278,mirrored pairwise,mirrored pairwise
+283,mirrored pairwise,mirrored pairwise
+290,mirrored pairwise,mirrored pairwise
+294,mirrored pairwise,mirrored pairwise
+309,mirrored pairwise,mirrored pairwise
+317,mirrored pairwise,mirrored pairwise
+320,mirrored pairwise,mirrored pairwise
+4,None,mirrored pairwise
+8,None,mirrored pairwise
+14,None,mirrored
+27,None,None
+32,None,mirrored
+40,None,None
+44,None,None
+62,mirrored,mirrored pairwise
+64,mirrored,None
+70,mirrored,mirrored
+122,mirrored pairwise,mirrored pairwise
+123,mirrored pairwise,mirrored pairwise
+128,mirrored pairwise,mirrored
+135,mirrored pairwise,mirrored
+138,mirrored pairwise,mirrored pairwise
+156,mirrored pairwise,mirrored pairwise
+162,None,None
+215,None,mirrored
+216,mirrored,mirrored
+230,mirrored,mirrored
+242,mirrored,mirrored
+253,mirrored,mirrored
+254,mirrored,mirrored
+260,mirrored,mirrored
+281,mirrored pairwise,mirrored pairwise
+282,mirrored pairwise,mirrored pairwise
+285,mirrored pairwise,mirrored pairwise
+289,mirrored pairwise,mirrored pairwise
+297,mirrored pairwise,mirrored pairwise
+301,mirrored pairwise,mirrored pairwise
+305,mirrored pairwise,mirrored pairwise
+314,mirrored pairwise,None
+1,None,None
+13,None,mirrored
+34,None,None
+43,None,None
+49,None,None
+52,None,None
+53,None,None
+80,mirrored,mirrored pairwise
+88,mirrored,mirrored
+91,mirrored,mirrored
+105,mirrored,mirrored
+134,mirrored pairwise,mirrored pairwise
+161,mirrored pairwise,mirrored pairwise
+166,None,None
+190,None,mirrored
+201,None,None
+205,None,None
+207,None,None
+212,None,None
+217,mirrored,mirrored
+236,mirrored,mirrored
+241,mirrored,mirrored
+243,mirrored,mirrored
+251,mirrored,None
+259,mirrored,mirrored
+263,mirrored,mirrored
+264,mirrored,mirrored
+273,mirrored pairwise,mirrored pairwise
+295,mirrored pairwise,mirrored pairwise
+311,mirrored pairwise,mirrored pairwise
+315,mirrored pairwise,mirrored pairwise
+318,mirrored pairwise,mirrored pairwise
+20,None,mirrored
+21,None,mirrored
+48,None,None
+50,None,None
+54,mirrored,mirrored pairwise
+58,mirrored,mirrored pairwise
+71,mirrored,None
+87,mirrored,None
+99,mirrored,mirrored
+102,mirrored,mirrored
+106,mirrored,mirrored
+121,mirrored pairwise,mirrored pairwise
+130,mirrored pairwise,mirrored
+149,mirrored pairwise,mirrored pairwise
+151,mirrored pairwise,mirrored pairwise
+160,mirrored pairwise,mirrored pairwise
+169,None,None
+174,None,None
+187,None,mirrored
+188,None,None
+189,None,mirrored
+191,None,mirrored
+214,None,mirrored
+235,mirrored,mirrored
+252,mirrored,mirrored
+257,mirrored,mirrored
+270,mirrored pairwise,mirrored pairwise
+276,mirrored pairwise,mirrored pairwise
+293,mirrored pairwise,mirrored pairwise
+308,mirrored pairwise,mirrored pairwise
+322,mirrored pairwise,mirrored pairwise
+323,mirrored pairwise,mirrored pairwise

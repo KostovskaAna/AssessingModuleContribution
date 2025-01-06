@@ -1,0 +1,325 @@
+,true-elitist,pred-elitist,true-mirrored,pred-mirrored,true-base_sampler,pred-base_sampler,true-weights_option,pred-weights_option,true-local_restart,pred-local_restart,true-step_size_adaptation,pred-step_size_adaptation,predicted_conf
+5,True,True,None,mirrored,gaussian,gaussian,default,default,BIPOP,BIPOP,psr,psr,59
+9,True,True,None,mirrored,gaussian,gaussian,equal,equal,IPOP,None,psr,psr,61
+25,True,True,None,None,sobol,sobol,equal,equal,None,None,psr,psr,25
+46,True,True,None,None,halton,halton,equal,equal,BIPOP,IPOP,csa,csa,44
+63,True,True,mirrored,None,gaussian,gaussian,equal,equal,IPOP,BIPOP,psr,psr,11
+78,True,True,mirrored,mirrored pairwise,sobol,sobol,equal,equal,None,IPOP,csa,csa,134
+82,True,True,mirrored,mirrored pairwise,sobol,gaussian,equal,equal,BIPOP,BIPOP,csa,csa,118
+90,True,True,mirrored,mirrored,halton,halton,default,default,None,None,csa,csa,90
+93,True,True,mirrored,mirrored,halton,halton,default,default,IPOP,BIPOP,psr,psr,95
+108,True,True,mirrored pairwise,mirrored,gaussian,gaussian,default,default,None,None,csa,csa,54
+116,True,True,mirrored pairwise,mirrored,gaussian,gaussian,equal,equal,IPOP,IPOP,csa,csa,62
+124,True,True,mirrored pairwise,None,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,14
+126,True,True,mirrored pairwise,mirrored pairwise,sobol,sobol,default,default,None,None,csa,csa,126
+132,True,True,mirrored pairwise,mirrored pairwise,sobol,sobol,equal,equal,None,IPOP,csa,csa,134
+137,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,BIPOP,IPOP,psr,psr,117
+144,True,True,mirrored pairwise,mirrored pairwise,halton,halton,default,default,None,IPOP,csa,csa,146
+157,True,True,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,159
+164,False,False,None,None,gaussian,gaussian,default,1/2^lambda,IPOP,BIPOP,csa,csa,178
+179,False,False,None,None,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,177
+180,False,False,None,None,sobol,sobol,default,default,None,None,csa,csa,180
+186,False,False,None,None,sobol,sobol,equal,equal,None,None,csa,psr,187
+196,False,False,None,mirrored pairwise,sobol,gaussian,1/2^lambda,1/2^lambda,BIPOP,BIPOP,csa,csa,286
+206,False,False,None,None,halton,halton,equal,equal,IPOP,None,csa,csa,204
+209,False,False,None,None,halton,halton,equal,equal,BIPOP,IPOP,psr,psr,207
+219,False,False,mirrored,mirrored,gaussian,sobol,default,default,IPOP,IPOP,psr,psr,237
+226,False,False,mirrored,mirrored,gaussian,sobol,equal,equal,BIPOP,BIPOP,csa,csa,244
+249,False,False,mirrored,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,249
+266,False,False,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,268
+272,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,IPOP,BIPOP,csa,csa,292
+296,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,IPOP,BIPOP,csa,csa,280
+302,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,286
+313,False,False,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,None,IPOP,psr,psr,315
+319,False,False,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,321
+3,True,True,None,None,gaussian,gaussian,default,default,IPOP,None,psr,psr,1
+7,True,True,None,mirrored pairwise,gaussian,gaussian,equal,equal,None,None,psr,psr,115
+16,True,True,None,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,BIPOP,csa,csa,124
+33,True,True,None,None,sobol,sobol,1/2^lambda,1/2^lambda,IPOP,BIPOP,psr,psr,35
+42,True,True,None,None,halton,halton,equal,equal,None,None,csa,csa,42
+45,True,True,None,None,halton,halton,equal,equal,IPOP,None,psr,psr,43
+55,True,True,mirrored,mirrored pairwise,gaussian,gaussian,default,default,None,None,psr,psr,109
+57,True,True,mirrored,None,gaussian,gaussian,default,default,IPOP,BIPOP,psr,psr,5
+60,True,True,mirrored,mirrored pairwise,gaussian,gaussian,equal,equal,None,None,csa,csa,114
+73,True,True,mirrored,None,sobol,sobol,default,default,None,None,psr,psr,19
+75,True,True,mirrored,None,sobol,gaussian,default,default,IPOP,IPOP,psr,psr,3
+76,True,True,mirrored,None,sobol,sobol,default,default,BIPOP,None,csa,csa,18
+77,True,True,mirrored,mirrored pairwise,sobol,sobol,default,default,BIPOP,BIPOP,psr,psr,131
+94,True,True,mirrored,mirrored,halton,halton,default,default,BIPOP,IPOP,csa,csa,92
+101,True,True,mirrored,mirrored,halton,halton,equal,equal,BIPOP,IPOP,psr,psr,99
+104,True,True,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,106
+109,True,True,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,None,None,psr,psr,127
+119,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,BIPOP,IPOP,psr,psr,117
+165,False,False,None,None,gaussian,sobol,default,1/2^lambda,IPOP,None,psr,psr,193
+172,False,False,None,None,gaussian,gaussian,equal,equal,BIPOP,BIPOP,csa,csa,172
+173,False,False,None,None,gaussian,halton,equal,equal,BIPOP,IPOP,psr,psr,207
+175,False,False,None,mirrored,gaussian,gaussian,1/2^lambda,1/2^lambda,None,None,psr,psr,229
+177,False,False,None,None,gaussian,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,195
+231,False,False,mirrored,mirrored,gaussian,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,249
+245,False,False,mirrored,mirrored,sobol,gaussian,equal,equal,BIPOP,BIPOP,psr,psr,227
+258,False,False,mirrored,mirrored,halton,halton,equal,equal,None,IPOP,csa,csa,260
+265,False,False,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,267
+284,False,False,mirrored pairwise,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,IPOP,csa,csa,284
+288,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,None,None,csa,csa,270
+292,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,BIPOP,IPOP,csa,csa,272
+300,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,1/2^lambda,1/2^lambda,None,None,csa,csa,282
+303,False,False,mirrored pairwise,mirrored pairwise,sobol,sobol,1/2^lambda,1/2^lambda,IPOP,BIPOP,psr,psr,305
+304,False,False,mirrored pairwise,None,sobol,gaussian,1/2^lambda,1/2^lambda,BIPOP,BIPOP,csa,csa,178
+6,True,True,None,mirrored pairwise,gaussian,gaussian,equal,equal,None,None,csa,csa,114
+17,True,True,None,None,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,15
+22,True,True,None,mirrored,sobol,sobol,default,default,BIPOP,BIPOP,csa,csa,76
+24,True,True,None,mirrored,sobol,sobol,equal,equal,None,None,csa,csa,78
+30,True,True,None,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,86
+31,True,True,None,None,sobol,sobol,1/2^lambda,1/2^lambda,None,None,psr,psr,31
+56,True,True,mirrored,mirrored pairwise,gaussian,gaussian,default,default,IPOP,BIPOP,csa,csa,112
+59,True,True,mirrored,None,gaussian,gaussian,default,default,BIPOP,BIPOP,psr,psr,5
+84,True,True,mirrored,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,86
+114,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,None,None,csa,csa,114
+140,True,True,mirrored pairwise,None,sobol,gaussian,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,16
+146,True,True,mirrored pairwise,mirrored pairwise,halton,halton,default,default,IPOP,None,csa,csa,144
+168,False,False,None,None,gaussian,gaussian,equal,equal,None,None,csa,csa,168
+181,False,False,None,mirrored,sobol,sobol,default,default,None,None,psr,psr,235
+185,False,False,None,mirrored,sobol,sobol,default,default,BIPOP,BIPOP,psr,psr,239
+198,False,False,None,None,halton,halton,default,default,None,IPOP,csa,csa,200
+199,False,False,None,None,halton,halton,default,default,None,IPOP,psr,psr,201
+210,False,False,None,None,halton,halton,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,212
+218,False,False,mirrored,mirrored,gaussian,sobol,default,default,IPOP,BIPOP,csa,csa,238
+222,False,False,mirrored,mirrored,gaussian,sobol,equal,equal,None,None,csa,csa,240
+224,False,False,mirrored,mirrored,gaussian,sobol,equal,equal,IPOP,IPOP,csa,psr,243
+228,False,False,mirrored,None,gaussian,gaussian,1/2^lambda,1/2^lambda,None,None,csa,csa,174
+239,False,False,mirrored,mirrored,sobol,gaussian,default,default,BIPOP,BIPOP,psr,psr,221
+246,False,False,mirrored,None,sobol,sobol,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,194
+248,False,False,mirrored,mirrored,sobol,gaussian,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,232
+261,False,False,mirrored,mirrored,halton,halton,equal,equal,IPOP,None,psr,psr,259
+262,False,False,mirrored,mirrored,halton,halton,equal,equal,BIPOP,IPOP,csa,csa,260
+269,False,False,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,267
+275,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,BIPOP,BIPOP,psr,csa,292
+279,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,equal,equal,IPOP,IPOP,psr,psr,297
+310,False,False,mirrored pairwise,mirrored pairwise,halton,halton,default,default,BIPOP,IPOP,csa,csa,308
+316,False,False,mirrored pairwise,None,halton,halton,equal,equal,BIPOP,IPOP,csa,csa,206
+321,False,False,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,psr,psr,323
+10,True,True,None,mirrored,gaussian,gaussian,equal,equal,BIPOP,BIPOP,csa,csa,64
+15,True,True,None,mirrored,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,BIPOP,psr,psr,71
+18,True,True,None,mirrored pairwise,sobol,sobol,default,default,None,None,csa,csa,126
+19,True,True,None,mirrored,sobol,sobol,default,default,None,None,psr,psr,73
+23,True,True,None,mirrored,sobol,sobol,default,default,BIPOP,IPOP,psr,psr,75
+37,True,True,None,None,halton,halton,default,default,None,None,psr,psr,37
+39,True,True,None,None,halton,halton,default,default,IPOP,BIPOP,psr,psr,41
+66,True,True,mirrored,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,None,None,csa,csa,120
+68,True,True,mirrored,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,None,csa,csa,120
+69,True,True,mirrored,mirrored,gaussian,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,87
+72,True,True,mirrored,mirrored pairwise,sobol,sobol,default,default,None,None,csa,csa,126
+79,True,True,mirrored,None,sobol,sobol,equal,equal,None,None,psr,psr,25
+81,True,True,mirrored,None,sobol,sobol,equal,equal,IPOP,IPOP,psr,psr,27
+92,True,True,mirrored,mirrored,halton,halton,default,default,IPOP,BIPOP,csa,csa,94
+96,True,True,mirrored,mirrored,halton,halton,equal,equal,None,None,csa,csa,96
+97,True,True,mirrored,mirrored,halton,halton,equal,equal,None,IPOP,psr,psr,99
+110,True,True,mirrored pairwise,mirrored,gaussian,gaussian,default,default,IPOP,BIPOP,csa,csa,58
+111,True,True,mirrored pairwise,mirrored,gaussian,gaussian,default,default,IPOP,BIPOP,psr,psr,59
+113,True,True,mirrored pairwise,None,gaussian,gaussian,default,default,BIPOP,None,psr,psr,1
+118,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,BIPOP,IPOP,csa,csa,116
+148,True,True,mirrored pairwise,mirrored pairwise,halton,halton,default,default,BIPOP,IPOP,csa,csa,146
+153,True,True,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,IPOP,None,psr,psr,151
+155,True,True,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,BIPOP,None,psr,psr,151
+163,False,False,None,None,gaussian,gaussian,default,default,None,None,psr,psr,163
+183,False,False,None,mirrored,sobol,sobol,default,default,IPOP,IPOP,psr,psr,237
+184,False,False,None,None,sobol,sobol,default,default,BIPOP,IPOP,csa,csa,182
+223,False,False,mirrored,mirrored,gaussian,sobol,equal,equal,None,None,psr,psr,241
+227,False,False,mirrored,mirrored,gaussian,sobol,equal,equal,BIPOP,BIPOP,psr,psr,245
+233,False,False,mirrored,mirrored,gaussian,sobol,1/2^lambda,1/2^lambda,BIPOP,BIPOP,psr,psr,251
+237,False,False,mirrored,mirrored,sobol,sobol,default,default,IPOP,IPOP,psr,psr,237
+256,False,False,mirrored,mirrored,halton,halton,default,default,BIPOP,IPOP,csa,csa,254
+291,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,IPOP,IPOP,psr,psr,273
+306,False,False,mirrored pairwise,mirrored pairwise,halton,halton,default,default,None,BIPOP,csa,csa,310
+2,True,True,None,mirrored,gaussian,gaussian,default,default,IPOP,IPOP,csa,csa,56
+38,True,True,None,None,halton,halton,default,default,IPOP,BIPOP,csa,csa,40
+67,True,True,mirrored,mirrored,gaussian,gaussian,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,69
+86,True,True,mirrored,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,88
+112,True,True,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,BIPOP,BIPOP,csa,csa,130
+115,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,None,None,psr,psr,115
+117,True,True,mirrored pairwise,mirrored pairwise,gaussian,sobol,equal,equal,IPOP,BIPOP,psr,psr,137
+125,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,123
+129,True,True,mirrored pairwise,mirrored pairwise,sobol,sobol,default,default,IPOP,BIPOP,psr,psr,131
+139,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,1/2^lambda,1/2^lambda,None,None,psr,psr,121
+143,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,1/2^lambda,1/2^lambda,BIPOP,BIPOP,psr,psr,125
+145,True,True,mirrored pairwise,mirrored pairwise,halton,halton,default,default,None,BIPOP,psr,psr,149
+147,True,True,mirrored pairwise,mirrored pairwise,halton,halton,default,default,IPOP,BIPOP,psr,psr,149
+152,True,True,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,IPOP,None,csa,csa,150
+154,True,True,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,BIPOP,BIPOP,csa,csa,154
+158,True,True,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,IPOP,None,csa,csa,156
+167,False,False,None,None,gaussian,sobol,default,default,BIPOP,IPOP,psr,psr,183
+193,False,False,None,None,sobol,gaussian,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,177
+194,False,False,None,None,sobol,gaussian,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,178
+197,False,False,None,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,249
+202,False,False,None,None,halton,halton,default,default,BIPOP,IPOP,csa,csa,200
+204,False,False,None,None,halton,halton,equal,equal,None,IPOP,csa,csa,206
+208,False,False,None,None,halton,halton,equal,equal,BIPOP,IPOP,csa,csa,206
+211,False,False,None,None,halton,halton,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,213
+225,False,False,mirrored,mirrored,gaussian,sobol,equal,equal,IPOP,IPOP,psr,psr,243
+238,False,False,mirrored,mirrored,sobol,gaussian,default,default,BIPOP,BIPOP,csa,csa,220
+271,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,None,None,psr,psr,289
+274,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,BIPOP,IPOP,csa,csa,290
+286,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,302
+299,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,BIPOP,BIPOP,psr,psr,281
+307,False,False,mirrored pairwise,mirrored pairwise,halton,halton,default,default,None,IPOP,psr,psr,309
+312,False,False,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,None,IPOP,csa,csa,314
+12,True,True,None,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,122
+28,True,True,None,mirrored,sobol,sobol,equal,equal,BIPOP,IPOP,csa,csa,80
+29,True,True,None,mirrored,sobol,sobol,equal,equal,BIPOP,IPOP,psr,psr,81
+35,True,True,None,mirrored,sobol,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,69
+51,True,True,None,None,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,psr,psr,53
+65,True,True,mirrored,mirrored,gaussian,gaussian,equal,equal,BIPOP,IPOP,psr,psr,63
+74,True,True,mirrored,mirrored pairwise,sobol,sobol,default,default,IPOP,IPOP,csa,csa,128
+83,True,True,mirrored,mirrored,sobol,sobol,equal,equal,BIPOP,IPOP,psr,psr,81
+85,True,True,mirrored,mirrored,sobol,gaussian,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,69
+95,True,True,mirrored,mirrored,halton,halton,default,default,BIPOP,IPOP,psr,psr,93
+107,True,True,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,105
+120,True,True,mirrored pairwise,mirrored,gaussian,gaussian,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,68
+127,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,None,None,psr,csa,108
+131,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,BIPOP,BIPOP,psr,psr,113
+133,True,True,mirrored pairwise,mirrored,sobol,sobol,equal,equal,None,None,psr,psr,79
+142,True,True,mirrored pairwise,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,BIPOP,csa,csa,88
+159,True,True,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,IPOP,None,psr,psr,157
+170,False,False,None,None,gaussian,gaussian,equal,equal,IPOP,IPOP,csa,csa,170
+176,False,False,None,None,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,178
+182,False,False,None,mirrored,sobol,sobol,default,default,IPOP,IPOP,csa,csa,236
+195,False,False,None,None,sobol,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,195
+203,False,False,None,None,halton,halton,default,default,BIPOP,IPOP,psr,psr,201
+220,False,False,mirrored,mirrored,gaussian,sobol,default,default,BIPOP,BIPOP,csa,csa,238
+221,False,False,mirrored,mirrored,gaussian,sobol,default,default,BIPOP,BIPOP,psr,psr,239
+229,False,False,mirrored,None,gaussian,gaussian,1/2^lambda,1/2^lambda,None,None,psr,psr,175
+244,False,False,mirrored,mirrored,sobol,gaussian,equal,equal,BIPOP,BIPOP,csa,csa,226
+247,False,False,mirrored,None,sobol,gaussian,1/2^lambda,default,None,None,psr,psr,163
+250,False,False,mirrored,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,248
+268,False,False,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,BIPOP,None,csa,csa,264
+280,False,False,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,BIPOP,IPOP,csa,csa,278
+287,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,1/2^lambda,1/2^lambda,BIPOP,BIPOP,psr,psr,305
+298,False,False,mirrored pairwise,mirrored pairwise,sobol,sobol,equal,equal,BIPOP,IPOP,csa,csa,296
+0,True,True,None,None,gaussian,gaussian,default,default,None,IPOP,csa,csa,2
+11,True,True,None,None,gaussian,gaussian,equal,equal,BIPOP,IPOP,psr,psr,9
+26,True,True,None,None,sobol,sobol,equal,equal,IPOP,IPOP,csa,csa,26
+36,True,True,None,None,halton,halton,default,default,None,BIPOP,csa,csa,40
+41,True,True,None,None,halton,halton,default,default,BIPOP,IPOP,psr,psr,39
+47,True,True,None,None,halton,halton,equal,equal,BIPOP,IPOP,psr,psr,45
+61,True,True,mirrored,None,gaussian,sobol,equal,equal,None,None,psr,psr,25
+89,True,True,mirrored,None,sobol,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,15
+98,True,True,mirrored,mirrored,halton,halton,equal,equal,IPOP,IPOP,csa,csa,98
+100,True,True,mirrored,mirrored,halton,halton,equal,equal,BIPOP,BIPOP,csa,psr,101
+103,True,True,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,None,BIPOP,psr,psr,107
+136,True,True,mirrored pairwise,mirrored,sobol,sobol,equal,equal,BIPOP,BIPOP,csa,csa,82
+141,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,123
+150,True,True,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,None,None,csa,csa,150
+171,False,False,None,None,gaussian,gaussian,equal,equal,IPOP,IPOP,psr,psr,171
+178,False,False,None,None,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,BIPOP,csa,csa,178
+192,False,False,None,None,sobol,sobol,1/2^lambda,1/2^lambda,None,None,csa,csa,192
+200,False,False,None,None,halton,halton,default,equal,IPOP,None,csa,csa,204
+213,False,False,None,None,halton,halton,1/2^lambda,1/2^lambda,IPOP,None,psr,psr,211
+232,False,False,mirrored,mirrored,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,230
+234,False,False,mirrored,mirrored,sobol,sobol,default,default,None,None,csa,csa,234
+240,False,False,mirrored,mirrored,sobol,gaussian,equal,equal,None,None,csa,csa,222
+255,False,False,mirrored,mirrored,halton,halton,default,default,IPOP,BIPOP,psr,psr,257
+267,False,False,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,IPOP,None,psr,psr,265
+277,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,equal,equal,None,None,psr,psr,295
+278,False,False,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,IPOP,BIPOP,csa,csa,280
+283,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,1/2^lambda,1/2^lambda,None,None,psr,psr,301
+290,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,IPOP,BIPOP,csa,csa,274
+294,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,None,BIPOP,csa,csa,280
+309,False,False,mirrored pairwise,mirrored pairwise,halton,halton,default,default,IPOP,BIPOP,psr,psr,311
+317,False,False,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,BIPOP,IPOP,psr,psr,315
+320,False,False,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,322
+4,True,True,None,mirrored pairwise,gaussian,gaussian,default,default,BIPOP,IPOP,csa,psr,111
+8,True,True,None,mirrored pairwise,gaussian,gaussian,equal,equal,IPOP,BIPOP,csa,csa,118
+14,True,True,None,None,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,IPOP,csa,csa,14
+27,True,True,None,mirrored,sobol,sobol,equal,equal,IPOP,BIPOP,psr,psr,83
+32,True,True,None,mirrored,sobol,gaussian,1/2^lambda,1/2^lambda,IPOP,None,csa,csa,66
+40,True,True,None,None,halton,halton,default,default,BIPOP,IPOP,csa,csa,38
+44,True,True,None,None,halton,halton,equal,equal,IPOP,None,csa,csa,42
+62,True,True,mirrored,mirrored pairwise,gaussian,gaussian,equal,equal,IPOP,IPOP,csa,csa,116
+64,True,True,mirrored,mirrored pairwise,gaussian,gaussian,equal,equal,BIPOP,BIPOP,csa,csa,118
+70,True,True,mirrored,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,None,csa,csa,120
+122,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,None,csa,csa,120
+123,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,123
+128,True,True,mirrored pairwise,mirrored,sobol,sobol,default,default,IPOP,IPOP,csa,csa,74
+135,True,True,mirrored pairwise,mirrored pairwise,sobol,sobol,equal,equal,IPOP,None,psr,psr,133
+138,True,True,mirrored pairwise,mirrored pairwise,sobol,sobol,1/2^lambda,1/2^lambda,None,None,csa,csa,138
+156,True,True,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,None,None,csa,csa,156
+162,False,False,None,None,gaussian,gaussian,default,default,None,None,csa,csa,162
+215,False,False,None,None,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,213
+216,False,False,mirrored,mirrored,gaussian,sobol,default,default,None,None,csa,csa,234
+230,False,False,mirrored,mirrored,gaussian,sobol,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,250
+242,False,False,mirrored,mirrored,sobol,gaussian,equal,equal,IPOP,IPOP,csa,csa,224
+253,False,False,mirrored,mirrored,halton,halton,default,default,None,IPOP,psr,psr,255
+254,False,False,mirrored,mirrored,halton,halton,default,default,IPOP,BIPOP,csa,csa,256
+260,False,False,mirrored,mirrored,halton,halton,equal,equal,IPOP,None,csa,csa,258
+281,False,False,mirrored pairwise,mirrored pairwise,gaussian,gaussian,equal,equal,BIPOP,BIPOP,psr,psr,281
+282,False,False,mirrored pairwise,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,None,None,csa,csa,282
+285,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,303
+289,False,False,mirrored pairwise,mirrored pairwise,sobol,sobol,default,default,None,None,psr,psr,289
+297,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,IPOP,IPOP,psr,psr,279
+301,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,1/2^lambda,default,None,IPOP,psr,psr,273
+305,False,False,mirrored pairwise,mirrored pairwise,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,BIPOP,psr,psr,305
+314,False,False,mirrored pairwise,None,halton,halton,equal,equal,IPOP,BIPOP,csa,csa,208
+1,True,True,None,mirrored,gaussian,sobol,default,default,None,None,psr,psr,73
+13,True,True,None,mirrored,gaussian,sobol,1/2^lambda,1/2^lambda,None,None,psr,psr,85
+34,True,True,None,mirrored pairwise,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,BIPOP,csa,csa,142
+43,True,True,None,None,halton,halton,equal,equal,None,IPOP,psr,psr,45
+49,True,True,None,None,halton,halton,1/2^lambda,1/2^lambda,None,None,psr,psr,49
+52,True,True,None,None,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,50
+53,True,True,None,None,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,51
+80,True,True,mirrored,mirrored pairwise,sobol,sobol,equal,equal,IPOP,IPOP,csa,csa,134
+88,True,True,mirrored,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,86
+91,True,True,mirrored,mirrored,halton,halton,default,default,None,IPOP,psr,psr,93
+105,True,True,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,psr,psr,107
+134,True,True,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,IPOP,BIPOP,csa,csa,118
+161,True,True,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,159
+166,False,False,None,None,gaussian,gaussian,default,default,BIPOP,BIPOP,csa,csa,166
+190,False,False,None,mirrored,sobol,sobol,equal,equal,BIPOP,None,csa,csa,240
+201,False,False,None,None,halton,halton,default,default,IPOP,None,psr,psr,199
+205,False,False,None,None,halton,halton,equal,equal,None,BIPOP,psr,psr,209
+207,False,False,None,None,halton,halton,equal,equal,IPOP,BIPOP,psr,psr,209
+212,False,False,None,None,halton,halton,1/2^lambda,1/2^lambda,IPOP,None,csa,csa,210
+217,False,False,mirrored,mirrored,gaussian,sobol,default,default,None,None,psr,psr,235
+236,False,False,mirrored,mirrored,sobol,sobol,default,default,IPOP,BIPOP,csa,csa,238
+241,False,False,mirrored,mirrored,sobol,gaussian,equal,equal,None,None,psr,psr,223
+243,False,False,mirrored,mirrored,sobol,gaussian,equal,equal,IPOP,IPOP,psr,psr,225
+251,False,False,mirrored,mirrored,sobol,sobol,1/2^lambda,1/2^lambda,BIPOP,BIPOP,psr,psr,251
+259,False,False,mirrored,mirrored,halton,halton,equal,equal,None,IPOP,psr,psr,261
+263,False,False,mirrored,mirrored,halton,halton,equal,equal,BIPOP,IPOP,psr,psr,261
+264,False,False,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,None,BIPOP,csa,csa,268
+273,False,False,mirrored pairwise,mirrored pairwise,gaussian,gaussian,default,default,IPOP,None,psr,psr,271
+295,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,equal,equal,None,None,psr,psr,277
+311,False,False,mirrored pairwise,mirrored pairwise,halton,halton,default,default,BIPOP,IPOP,psr,psr,309
+315,False,False,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,IPOP,None,psr,psr,313
+318,False,False,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,None,BIPOP,csa,csa,322
+20,True,True,None,mirrored,sobol,sobol,default,default,IPOP,BIPOP,csa,csa,76
+21,True,True,None,mirrored,sobol,sobol,default,default,IPOP,IPOP,psr,psr,75
+48,True,True,None,None,halton,halton,1/2^lambda,1/2^lambda,None,BIPOP,csa,csa,52
+50,True,True,None,None,halton,halton,1/2^lambda,1/2^lambda,IPOP,BIPOP,csa,csa,52
+54,True,True,mirrored,mirrored,gaussian,sobol,default,default,None,None,csa,csa,72
+58,True,True,mirrored,mirrored pairwise,gaussian,gaussian,default,default,BIPOP,BIPOP,csa,csa,112
+71,True,True,mirrored,mirrored,gaussian,gaussian,1/2^lambda,1/2^lambda,BIPOP,BIPOP,psr,psr,71
+87,True,True,mirrored,None,sobol,sobol,1/2^lambda,1/2^lambda,IPOP,IPOP,psr,psr,33
+99,True,True,mirrored,mirrored,halton,halton,equal,equal,IPOP,BIPOP,psr,psr,101
+102,True,True,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,None,IPOP,csa,csa,104
+106,True,True,mirrored,mirrored,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,104
+121,True,True,mirrored pairwise,mirrored pairwise,gaussian,gaussian,1/2^lambda,1/2^lambda,None,IPOP,psr,psr,123
+130,True,True,mirrored pairwise,None,sobol,gaussian,default,default,BIPOP,IPOP,csa,csa,2
+149,True,True,mirrored pairwise,mirrored pairwise,halton,halton,default,default,BIPOP,None,psr,psr,145
+151,True,True,mirrored pairwise,mirrored pairwise,halton,halton,equal,equal,None,IPOP,psr,psr,153
+160,True,True,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,csa,csa,158
+169,False,False,None,None,gaussian,halton,equal,equal,None,None,psr,psr,205
+174,False,False,None,None,gaussian,gaussian,1/2^lambda,1/2^lambda,None,None,csa,csa,174
+187,False,False,None,mirrored,sobol,gaussian,equal,equal,None,None,psr,psr,223
+188,False,False,None,mirrored,sobol,sobol,equal,equal,IPOP,None,csa,csa,240
+189,False,False,None,mirrored,sobol,gaussian,equal,equal,IPOP,IPOP,psr,psr,225
+191,False,False,None,mirrored,sobol,gaussian,equal,equal,BIPOP,BIPOP,psr,psr,227
+214,False,False,None,None,halton,halton,1/2^lambda,1/2^lambda,BIPOP,None,csa,csa,210
+235,False,False,mirrored,mirrored,sobol,sobol,default,default,None,None,psr,psr,235
+252,False,False,mirrored,mirrored,halton,halton,default,default,None,BIPOP,csa,csa,256
+257,False,False,mirrored,mirrored,halton,halton,default,default,BIPOP,BIPOP,psr,psr,257
+270,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,default,default,None,None,csa,csa,288
+276,False,False,mirrored pairwise,mirrored pairwise,gaussian,sobol,equal,equal,None,BIPOP,csa,csa,298
+293,False,False,mirrored pairwise,mirrored pairwise,sobol,gaussian,default,default,BIPOP,BIPOP,psr,psr,275
+308,False,False,mirrored pairwise,mirrored pairwise,halton,halton,default,default,IPOP,BIPOP,csa,csa,310
+322,False,False,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,BIPOP,None,csa,csa,318
+323,False,False,mirrored pairwise,mirrored pairwise,halton,halton,1/2^lambda,1/2^lambda,BIPOP,IPOP,psr,psr,321
